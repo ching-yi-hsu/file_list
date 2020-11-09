@@ -1,1 +1,3 @@
-#your a smelly asian woman
+import os
+
+print(os.getcwd())
